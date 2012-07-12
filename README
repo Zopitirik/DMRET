@@ -1,0 +1,4 @@
+This program is an Deadlock Detection with Multiple Resource of Each Type simulator with C#.
+It is not the best way, it just shows how the algorithm works.
+
+.NET Framework 4 required.
