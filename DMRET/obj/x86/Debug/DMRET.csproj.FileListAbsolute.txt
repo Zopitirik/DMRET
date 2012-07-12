@@ -1,0 +1,11 @@
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\DMRET.Form1.resources
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\DMRET.Properties.Resources.resources
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\bin\Debug\DMRET.exe
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\bin\Debug\DMRET.pdb
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\DMRET.exe
+C:\Users\Hikmet\Documents\Visual Studio 2010\Projects\DMRET\DMRET\obj\x86\Debug\DMRET.pdb
+C:\Users\Hikmet\Github\DMRET\DMRET\obj\x86\Debug\DMRET.exe
+C:\Users\Hikmet\Github\DMRET\DMRET\obj\x86\Debug\DMRET.pdb
